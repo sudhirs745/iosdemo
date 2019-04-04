@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  MyfinesoftTask
+//  loginpage
 //
-//  Created by Karthik on 4/1/19.
-//  Copyright © 2019 Slyly Infotech. All rights reserved.
+//  Created by Manoj on 07/02/19.
+//  Copyright © 2019 Manoj. All rights reserved.
 //
 
 import UIKit
